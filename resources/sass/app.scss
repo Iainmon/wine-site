@@ -1,0 +1,44 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,300,400,700');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.title {
+  margin: 10px;
+  font-weight: 400;
+}
+
+.main-title {
+  font-size: 84px;
+}
+
+.sub-title {
+  font-size: 44px;
+}
+
+.code {
+  font-family: monospace;
+}
+
+html, body, p {
+  font-size: 16px;
+}
+
+.icon {
+  margin-top: 50px;
+  width: 64px;
+  height: auto;
+}
+
+code {
+  color: #5f1e22;
+}
