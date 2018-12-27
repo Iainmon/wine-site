@@ -3,7 +3,7 @@
 @section('content')
     <div class="row flex-center">
         <div>
-            <img class="icon" src="{{ asset('storage/images/grape-icon.svg') }}" alt="">
+            <img class="icon" src="{{ asset('img/grape-icon.svg') }}" alt="">
             <h1 class="title main-title">Wine</h1>
         </div>
     </div>
