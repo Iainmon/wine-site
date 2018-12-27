@@ -22,5 +22,9 @@
         "sass-loader": "^7.1.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.5.21"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.9",
+        "shelljs": "^0.8.3"
     }
 }

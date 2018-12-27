@@ -1,0 +1,7 @@
+{
+  "wine" : {
+    "printCommands" : true,
+    "listen-port" : 9001,
+    "wineryfile" : "./winery/winery.js"
+  }
+}
