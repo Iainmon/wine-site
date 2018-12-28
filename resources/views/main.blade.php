@@ -13,7 +13,7 @@
             <h4 class="title sub-title">Installation</h4>
             <p>To install wine, just enter the following command.</p>
             <code>
-                $ curl -O "https://grape-juice.org/cdn/wine/main/wine
+                $ curl -O "https://grape-juice.org/wine/wine"
             </code>
         </div>
     </div>
